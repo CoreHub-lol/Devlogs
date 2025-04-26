@@ -39,13 +39,6 @@ Find all the details in the video!
 - **Documentation** - Comprehensive guides for all projects
 - **Regular Updates** - New features and improvements
 
-## Links
-
-- [Website](https://corehub.lol)
-- [Documentation](https://docs.corehub.lol)
-- [GitHub](https://github.com/corehub)
-- [Discord](https://discord.gg/corehub)
-
 ---
 
 <div align="center">
