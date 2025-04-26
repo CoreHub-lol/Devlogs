@@ -8,7 +8,7 @@
   We provide high-quality open-source project bases for developers and businesses.
   Our solutions accelerate your development and foster innovation.
   
-  [Website](https://corehub.lol) | [GitHub](https://github.com/corehub) | [Documentation](https://docs.corehub.lol)
+  [Website](https://corehub.lol) | [GitHub](https://github.com/corehub-lol) | [Documentation](https://corehub.lol/docs)
 </div>
 
 ---
